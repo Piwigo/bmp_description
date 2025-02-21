@@ -1,0 +1,1 @@
+Gestor de lots, Afegir prefiltre amb/sense descripció i afegir l'acció

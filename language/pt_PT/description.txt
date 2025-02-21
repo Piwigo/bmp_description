@@ -1,0 +1,1 @@
+Gerênciar, adicionar pré-filtro com ou sem descrição e definir opções da descrição.

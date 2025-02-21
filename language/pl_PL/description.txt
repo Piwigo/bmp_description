@@ -1,0 +1,1 @@
+Manager Wsadowy, dodaje pre-filtr z / bez opisu i dodaje akcję dotyczącą opisu

@@ -1,0 +1,1 @@
+Administrator de Lot, Adaugă Pre-Filtre pentru / fără descrieri și adaugă acțiuni asupra descrierilor.

@@ -1,0 +1,1 @@
+Voeg filters toe aan de Bulk beheerder: met en zonder omschrijving. Onderneem daarna acties op geselecteerde afbeeldingen.

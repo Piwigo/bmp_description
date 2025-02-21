@@ -1,0 +1,1 @@
+Gestion par lot : Ajouter un préfiltre avec description / sans description et ajouter une action possible sur les descriptions

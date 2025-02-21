@@ -1,0 +1,1 @@
+Administrador de lotes, Agregar prefiltro con / sin descripción y añadir la acción en la descripción

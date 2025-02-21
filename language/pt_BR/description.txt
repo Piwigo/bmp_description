@@ -1,0 +1,1 @@
+Gerenciador de lotes, Adicionar Pré-filtro com/sem descrição e adicionar ação na descrição.

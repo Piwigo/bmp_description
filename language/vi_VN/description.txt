@@ -1,0 +1,2 @@
+Batch Manager, Add Prefilter with / without description and add action on description
+Trình quản lý lô, Thêm bộ tiền lọc,  có hoặc không có mô tả và thêm thao tác trong mô tả

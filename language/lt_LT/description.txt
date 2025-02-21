@@ -1,0 +1,1 @@
+Paketinis tvarkymas leidžia filtruoti, pridėti, tvarkyti ir pašalint nuotraukų aprašymus.

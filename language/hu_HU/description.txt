@@ -1,0 +1,1 @@
+Batch Manager (kötegelt kezelés): Szűrő hozzáadása a megjegyzéssel ellátott vagy anélküli képek kiválasztásához, majd megjegyzés hozzáadásának lehetősége.

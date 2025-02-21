@@ -1,0 +1,1 @@
+Jobb handterar, Legg til førfilter med / utan skildring og legg til handling på skildring

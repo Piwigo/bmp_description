@@ -1,0 +1,1 @@
+Batch hanterare, Lägg till förfiltrering med / utan beskrivning och lägg till action till beskrivning.

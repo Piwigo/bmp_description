@@ -1,0 +1,1 @@
+Paketni upravljalnik, Doda predhodno določen filter z ali brez opisa in doda dejanja v opisu

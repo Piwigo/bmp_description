@@ -1,0 +1,1 @@
+Batch Manager, Aggiungi Prefiltro con / senza descrizione ed aggiungere l'azione sulla descrizione
