@@ -72,13 +72,13 @@ function BMPD_loc_end_element_set_global()
 	global $template, $pwg_loaded_plugins;
 	if (isset($pwg_loaded_plugins['ExtendedDescription'])) {
 		$templatebmpd = '
-		<textarea rows="5" cols="50" placeholder="' . l10n('Type here the description') . "  /  " . l10n('Use Extended Description tags...') . '" class="description" name="BMPD3" id="BMPD3"></textarea><br>
 		<input type="checkbox" name="check_BMPD4" id="input_BMPD4"> ' . l10n('remove description') . '<br>
+		<textarea rows="5" cols="50" placeholder="' . l10n('Type here the description') . "  /  " . l10n('Use Extended Description tags...') . '" class="description" name="BMPD3" id="BMPD3"></textarea><br>
 	  ';
 	} else {
 		$templatebmpd = '
-		<textarea rows="5" cols="50" placeholder="' . l10n('Type here the description') . '" class="description" name="BMPD3" id="BMPD3"></textarea><br>
 		<input type="checkbox" name="check_BMPD4" id="input_BMPD4"> ' . l10n('remove description') . '<br>
+		<textarea rows="5" cols="50" placeholder="' . l10n('Type here the description') . '" class="description" name="BMPD3" id="BMPD3"></textarea><br>
 	  ';
 	}
 	$template->func_combine_script(array(
